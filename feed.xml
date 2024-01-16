@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>Mi primer trabajo feed rss</title>
+        <link>https://github.com/Rafa-grancapitan/rafa-carreras</link>
+        <description>creación de la actividad feed rss</description>
+        <language>es-ES</language>
+        <webMaster>a23camora@iesgrancapitan.org (rafa carreras morales)</webMaster>
+        <generator>Visual Studio Code</generator>
+       <lastBuildDate>Mon, 15 Jan 2024 00:00:00 -0500</lastBuildDate>
+       <copyright>Rafa carreras – Todos los derechos reservados</copyright>
+
+        <item>
+            <title>Detroit traspasa a Marvin Bagley III a los Wizards</title>
+            <link>https://www.nbamaniacs.com/rumores-nba/detroit-traspasa-a-marvin-bagley-iii-a-los-wizards/</link>
+            <description>La franquicia de la Motor Town también enviará al jugador Isaiah Livers y dos futuras segundas rondas del Draft (2025 y 2026) a cambio del italiano Danilo Gallinari y de su compañero Mike Muscala.</description>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 -0500</pubDate>
+        </item>
+
+        <item>
+            <title>Los castigos físicos están prohibidos en el Ejército: “Se tiene que investigar si eso ocurrió en Cerro Muriano”</title>
+            <link>https://cordopolis.eldiario.es/cordoba-hoy/sucesos/castigos-fisicos-prohibidos-ejercito-investigar-si-ocurrio-cerro-muriano_1_10837615.html</link>
+            <description>El presidente de la Asociación de Tropa y Marinería Española preguntará a Defensa si se autorizaron este tipo de “castigos” en la instrucción en la que murieron dos soldados</description>
+            <pubDate>Fri, 12 Jan 2024 00:00:00 -0500</pubDate>
+            
+            <category>ESTADISTICAS DE CASTIGOS </category>
+                <source url="https://www.unicef.org/mexico/media/6171/file/Acabar_con_el_castigo_violento_en_todas_sus_formas_es_un_derecho_del_ni%C3%B1o_de_edad_infantil.pdf">
+            
+        </item> 
+
+        <item>
+            <title>Hamás publica un nuevo vídeo de los rehenes israelíes</title>
+             <link>https://www.antena3.com/noticias/mundo/hamas-publica-nuevo-video-rehenes-israelies_2024011565a5063667d53e0001ed80b3.html</link> 
+            <description>La organización terrorista publica nuevas imágenes de 3 rehenes, aunque se desconoce cuándo fue grabado y si los secuestrados continúan con vida.</description>
+            <enclosure type="video/mp4" 
+            url="https://dpvclip.antena3.com/assets9/2024/01/15/84A73B4A-F965-4831-BE14-1DBF6B418190/video_480p_es.mp4" 
+            length="566137"/>
+            
+        </item>
+
+        <item>
+            <title>Un 44,1% de los hombres cree que la promoción de la igualdad ha llegado tan lejos que ahora se les discrimina a ellos</title>
+            <link>https://elpais.com/sociedad/2024-01-15/un-441-de-los-hombres-cree-que-se-ha-llegado-tan-lejos-en-la-promocion-de-la-igualdad-de-las-mujeres-que-ahora-se-les-discrimina-a-ellos.html</link>
+            <description>La primera encuesta del CIS sobre la percepción de la igualdad y los estereotipos de género refleja que las mujeres dedican el doble de tiempo al cuidado de los hijos que los hombres</description>
+            <pubDate>Fri,02 Jan 2024 00:00:00 -0500</pubDate>
+            
+            <category>EL PAÍS España</category>
+
+            <author>elpais@gmail.com (El País)</author>
+
+            <comments>https://elpais.com/sociedad/2024-01-15/un-441-de-los-hombres-cree-que-se-ha-llegado-tan-lejos-en-la-promocion-de-la-igualdad-de-las-mujeres-que-ahora-se-les-discrimina-a-ellos.htmll</comments>
+        </item>
+        <item>
+            <title>Un atentado en Israel eleva el temor a la extensión de la violencia por la guerra en Gaza</title>
+            <link>https://elpais.com/internacional/2024-01-15/un-atentado-en-israel-eleva-el-temor-a-la-extension-de-la-violencia-por-la-guerra-en-gaza.html</link>
+            <description>Dos palestinos de Cisjordania matan a una anciana y hieren a otras 19 personas, cuatro de gravedad, en un atropello múltiple con apuñalamientos al norte de Tel Aviv</description>
+            <pubDate>Fri,05 April 2023 00:00:00 -0500</pubDate>
+
+            <author>elpais@gmail.com (El País)</author>
+
+            <comments>https://elpais.com/internacional/2024-01-15/un-atentado-en-israel-eleva-el-temor-a-la-extension-de-la-violencia-por-la-guerra-en-gaza.html</comments>
+        </item>
+
+    </channel>
+</rss>
